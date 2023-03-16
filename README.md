@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+### Most used languages in my projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmond333&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alexbidenko1998/alexbidenko1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
