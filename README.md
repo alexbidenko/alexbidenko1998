@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Some statistics of my github profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbidenko1998&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbidenko1998&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most used languages in my projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbidenko1998&hide=html,css,php,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
