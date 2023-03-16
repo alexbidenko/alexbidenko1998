@@ -1,4 +1,4 @@
-# Hi there 👋
+# Full-stack Web senior developer and teamleader 👋
 
 ### Some statistics of my github profile
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbidenko1998&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
